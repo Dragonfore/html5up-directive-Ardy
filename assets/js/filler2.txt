@@ -1,0 +1,7 @@
+// filler for section tag
+					<div class="content" id="hiddenDiv2">HCL is prepared to house your crew or out of town drivers in our modern 6 bedroom 2 bath suite. call 		for more details (250)329-8555. If your RV is where you prefer to stay then we have fully serviced lots available as well.<br>
+
+						 At HCL we believe in the environment and feel that we all need to do our part to care for our planet and those in it. We are currently putting together plans with partner companies in the wood waste industry to help bring new technologies and process' to the north to decrease our carbon footprint and create jobs at the same time. At HCL we reuse our oil and scrap fuel in an efficient oil burning system that is used to heat our shop. we take oil and fuel from other companies in the area and recycle it at our facility. We are constantly looking for ways to cut back waste and ensure things are done with the environment in mind. <br>
+							
+						 HCL is committed to you and your project from start to finish and we can provide partnerships with other local companies to give the detailed expert help to get your job done quickly and efficiently. 
+					</div>

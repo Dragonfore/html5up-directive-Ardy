@@ -1,0 +1,13 @@
+//Text filler for first section tag
+					<div class="content" id="hiddenDiv1">Our trucking division is diverse including 3 box trucks (2 tri drives and a tandem) as well as a tandem tractor with a tridem end dump. we are LT licensed for hazardous waste and have trained competent drivers with experience in the industry. Our tandem tractor also pulls a scissor neck trailer with a live roll and beaver tails, couple that with a winch and you have a massively versatile truck capable of hauling more than most guys can imagine.<br>
+
+						Our equipment includes 3 excavators, 2 dozers, a mini excavator and a single smooth drum 54" roller. many other smaller pieces round out our fleet to make it possible to do any job that may come along.<br>
+
+						Our newest addition is a topsoil screener. This unit is amazing at sorting through debri and leaving only the best topsoil from the pile for use in your job. loading up the screener for your next job ensure that maximum utilization of your spoil pile.<br>
+
+						HCL has also procured an experienced light equipment and commercial mechanic with a fully rigged up service truck to take care of all of your needs on or off the job. HCL is committed to the highest quality service done as safe as possible, we constantly work with customers to ensure that safe and effective procedures are followed at all times and continually train our workers to follow best practices as set out in each of the industries they may be a part of. <br>
+
+						Our people are the most important part of the business and with a medical and dental plan, newer facilities and continuously improving systems we always strive to give the best workplace and culture possible. <br>
+
+						There is now project to big or small when you live in Fort st John. We pride ourselves in working with local contractors as much as possible to deliver the best goods and quality product out there. 
+					</div>
